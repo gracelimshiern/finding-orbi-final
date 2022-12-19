@@ -106,3 +106,18 @@ Under Active projects, users will be able to leave a review for each other.
 **Edit Profile**
 
 <img width="646" alt="Screenshot 2022-12-19 at 8 30 20 PM" src="https://user-images.githubusercontent.com/98506014/208427024-9dbd4627-dbcd-4c02-8a3d-2fe6106e6618.png">
+
+**View Active Projects**
+
+<img width="634" alt="Screenshot 2022-12-19 at 8 36 32 PM" src="https://user-images.githubusercontent.com/98506014/208428030-1b280704-74d7-4b3d-89dd-257bdd24c77c.png">
+
+**Pending Offers from other Users**
+
+<img width="632" alt="Screenshot 2022-12-19 at 8 36 21 PM" src="https://user-images.githubusercontent.com/98506014/208427941-5ef039d8-211b-4cc3-b1db-f2747a9d366c.png">
+
+**Leave a Review**
+
+<img width="634" alt="Screenshot 2022-12-19 at 8 36 54 PM" src="https://user-images.githubusercontent.com/98506014/208428115-3c889683-eae0-4ddd-9857-5fb14dba7b7d.png">
+
+
+
